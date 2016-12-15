@@ -1,7 +1,7 @@
 """
 ------------------------------------------------------------------------------------------------------------------
-TWO WAY ANOVA TEST
-File name: anova.py
+KRUSKAL-WALLIS TEST
+File name: krustall_wallismap.py
 Description: This script prepares the data fro the anova analisis in R.
 Author:Carolina Arias Munoz
 Date Created: 30/07/2016
